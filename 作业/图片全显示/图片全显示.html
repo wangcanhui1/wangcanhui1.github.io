@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	*{
+		margin:0;
+		padding:0;
+	}
+	.little-box li{
+		border:2px solid #f00;
+		width:320px;
+		height:200px;
+		list-style: none;
+		float: left;
+		margin-left: 50px;
+	}
+	
+	</style>
+</head>
+<body>
+		<ul class="little-box">
+			<li class="little-box1"><img src="images/pic11.jpg"></li>
+			<li class="little-box2"><img src="images/pic22.jpg"></li>
+			<li class="little-box3"><img src="images/pic33.jpg"></li>
+			<li class="little-box4"><img src="images/pic44.jpg"></li>
+		</ul>
+	<div class="box"><img  class="pic1"src="" alt=""></div>
+	
+
+	<!-- script -->
+	<script src="../jquery-1.11.1.js"></script>
+	<script>
+	$(".little-box li").mouseenter(function(){
+		var linum=$(this).index()+1;
+		var src="images/pic"+linum+".jpg"
+		$(".pic1").attr("src",src)	
+	})
+
+	$(".little-box li").mouseleave(function(){
+		$(".pic1").css("display","hidden")
+	})
+
+	$(".little-box li").mousemove(function(event){
+		var x=event.pageX-320;
+		var y=event.pageY;
+		$(".box img").css({"margin-left":x,"margin-top":y})
+		// console.log(x+","+y)
+	})
+	
+
+	</script>
+</body>
+</html>

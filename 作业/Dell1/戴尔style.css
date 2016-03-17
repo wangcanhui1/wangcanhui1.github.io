@@ -1,0 +1,187 @@
+*{ margin:0px;
+   padding:0;}
+#header{
+	margin: 0 auto;
+	height: 475px;
+	width:930px;}
+#header1{
+	height:77px;
+	width:930px;}
+#logo{
+	height:77px;
+	width: 107px;
+	float:left;}
+#nav {
+	width:470px;
+	height:27px;
+	float:left;
+	margin-top:42px;
+	margin-left:31px;}
+#nav ul li{
+	float: left;
+	list-style: none;
+	font-family:Tahoma,sans-serif;
+	font-size: 13px;
+	margin-left:33px;}
+#nav ul li div{
+	float: left;}
+#nav ul li div img{
+	float:left;
+	margin-left: 10px;}
+#search{
+	height:73px;
+	width:320px;
+	margin-left:1px;
+	float:left;}
+#search1{
+	height:10px;
+	margin-top: 7px;}
+#search1 ul li{
+	list-style: none;
+	float: left;
+	font-size: 10px;
+	margin-left:10px;
+	font-size:13px;}
+#search2{
+	clear:both;
+	float:right;
+	margin-top:11px;}
+#search3{
+	float: right;
+	margin-top: 13px;
+	font-size: 10px;}
+#header2{
+	height:380px;
+	width:930;
+	margin-top:18px;}
+#header2{
+	height: 380px;
+	width: 930px;}	
+#container{
+	margin: 0 auto;
+	height:560px;
+	width:930px;
+	margin-top: 23px;}
+#container ul li{
+	list-style: none;}
+#container1{
+	height:285px;
+	width:930px;}
+#services{
+	height:285px;
+	width:300px;
+	float: left;
+	border:1px solid #666;}
+#services ul{
+	margin-top: 13px;}
+#services li{
+	font-family: Courier, monospace;
+	padding-left: 40px;
+	font-size: 10px;
+	line-height: 14px;}
+#optimize{
+	margin-top: 14px;
+}
+#headlines{
+	height:285px;
+	width:300px; 
+	float:left;
+	border:1px solid #666;
+	margin-left: 12px;}
+#headlines li{
+	font-family: Courier, monospace;
+	font-size: 8px;
+	padding-left:20px;
+	margin-top: 2px;}
+#deals{
+	height:285px;
+	width:300px; 
+	float:left;
+	border:1px solid #666;
+	margin-left: 12px;}	
+#deals li{
+	font-family: Courier, monospace;
+	font-size: 8px;
+	padding-left:14px;
+	margin-top: 14px;}
+#container1 h3{
+	margin-left: 21px;}
+#container2{
+	height: 47px;
+	width: 930px;}
+#image{
+	height:46px;
+	width:18px;
+	float: left;}
+#image img{
+	padding-top: 18px;}
+#input{
+	height:40px;
+	width: 190px;
+	float: left;
+	margin-left: 5px;}
+#input input{
+	margin-top: 13px;}
+#share{
+	width: 67px;
+	height: 46px;
+	float:right;}
+#share img{
+	padding-top: 15px;
+}
+#container3{
+	height: 220px;
+	width: 930px;
+	border: 1px solid #666;}
+#container3 div{
+	float: left;}
+#shop{
+	width: 128px;
+	height: 220px;
+	margin-left:20px;}
+#container3 h6{
+	margin-top: 25px;
+}
+#container3 li{
+	font-size:10px;
+}
+#container3 ul{
+	line-height: 20px;
+	font-family: Georgia,Times, serif;}
+#community{
+	width:98px;
+	height:220px;
+	margin-left:58px;}
+#support{
+	width:109px;
+	height:220px;
+	margin-left:88px;}
+#company{
+	width:123px;
+	height:220px;
+	margin-left:77px;}		
+#account{
+	width:121px;
+	height:220px;
+	margin-left:63px;}
+#footer{
+	margin: 0 auto;
+	height:55px;
+	width:930px;}
+#footer ul li{
+	font-size: 11px;
+	list-style: none;
+	font-color:#00f;}
+#footer ul{
+	padding-top: 0px;}
+#laptops{
+	padding-left: 79px;}
+#dell{
+	padding-left: 62px;}
+#at {
+	padding-left: 130px;
+}
+#large{
+	padding-left: 428px;
+}	
+span{display:block;}

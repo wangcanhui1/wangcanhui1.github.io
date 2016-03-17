@@ -1,0 +1,161 @@
+*{ margin:0px;
+   padding:0;}
+   ul{list-style: none;}
+   
+#header{
+	margin:0 auto;
+	height:101px;
+}
+#header-top{
+	width:1263px;
+	margin:0 auto;
+}
+#header-bottom{
+	width:1263px;
+	margin:0 auto;
+}
+#header1{
+	height: 31px;
+	background-color: #eeeeee;}
+#buy{
+	padding-top: 10px;
+	padding-left:150px;
+	float: left;}
+#login{ 
+	float:right;
+	padding-top:10px;
+	margin-right:150px;
+	color:#0066d7; }
+#header2{
+	height:70px;
+	background-color:#0085c3;
+	overflow: hidden;}
+#header2 img{
+	padding-left: 150px;
+	margin-bottom:10px;
+	float:left; }
+#header2 ul {
+	list-style: none;
+	float;:left;} 
+#header2 ul li {	
+	float:left;
+	margin-left: 35px;
+	margin-top: 15px;
+	color:#fff;}
+#header2 input{
+	height:40px;
+	width: 340px;}
+#header2 input{
+	float:right;
+	margin-right: 150px;}
+#search{
+	margin-bottom: 15px;}
+#container{
+	margin:0 auto;
+	clear: both;
+	margin-top: 20px;
+	height:700px;
+	width:1263px;}
+#container1{
+	height: 380px;}
+#container1 img{
+	padding-left: 165px;
+}
+#container2{
+	height:320px;
+	margin-top: 32px;
+	margin-left: 165px;}
+#container2 h3{
+	margin-top: 10px;
+	padding-left:22px;}
+#container2 img{
+	padding-top:13px;}
+#container2 li{
+	list-style: none;
+	list-style-image: url(images/三角.gif);
+	margin-left: 10px;}
+.list {
+	font-size: 13px;}
+#services{
+	width:300px;
+	height:285px;
+	float:left;
+	border-left:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;}
+#support{
+	width:300px;
+	height:285px;
+	float:left;
+	margin-left: 12px;
+	border-left:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;}
+#deals{
+	width:300px;
+	height:285px;
+	float:left;
+	margin-left: 12px;
+	border-left:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;}
+#li1 {
+	margin-top: 20px;
+}
+#footer{
+	color:#fff;
+	background-color:#0085c3;
+	margin-top: 8px;}
+#footerin{	
+	margin:0 auto;
+	height:340px;
+	width:1263px;
+}
+#footer1{
+	margin-left: 150px;
+	font-size: 10px;}
+#footer1 div{
+	padding-top: 32px;
+}
+#list1{
+	clear: both;
+	float:left;height: 203px;}
+#list1 li{
+	list-style:none;
+	margin-top:10px;}
+#list2{
+	margin-left: 75px;
+	float:left;
+	height: 203px;
+}
+#list2 li{
+	list-style: none;
+	margin-top: 10px;}
+#list3{
+	float: left;
+	margin-left: 75px;}
+#list3 li{
+	list-style:none;
+	margin-top: 10px;
+}
+#list4{
+	float: left;	
+	margin-left:75px;}
+#list4 li{
+	list-style:none;
+	margin-top: 10px;
+} 
+#list5{
+	float: left;	
+	margin-left: 75px;}
+#list5 li{
+	list-style:none;
+	margin-top: 10px;
+}
+#ter{
+	clear: both;
+	height:43px;
+margin-left: 350px;}
+#pro{
+	margin-left: 500px;
+}
